@@ -22,7 +22,7 @@
 @import <AppKit/CPOutlineView.j>
 
 
-//var MHTreeViewDataSource_outlineView_shouldDeferDisplayingChildrenOfItem_                        = 1 << 2;
+var MHTreeViewDataSource_outlineView_shouldDeferDisplayingChildrenOfItem_                        = 1 << 2;
 
 @implementation MHTreeView : CPOutlineView
 {
